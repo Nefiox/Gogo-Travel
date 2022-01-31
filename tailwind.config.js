@@ -8,6 +8,7 @@ module.exports = {
         sanFranciscoDesktop: "url('../img/sanFranciscoDesktop.jpg')",
         yosemite: "url('../img/yosemite.jpg')",
         LA: "url('../img/LA.jpg')",
+        mexico: "url('../img/mexico.jpeg')",
         seattle: "url('../img/seattle.jpg')",
         new_york: "url('../img/new_york.jpg')",
         norway: "url('../img/norway.jpg')",
